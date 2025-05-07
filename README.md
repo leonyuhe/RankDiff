@@ -136,18 +136,7 @@ Experiment results will be saved in the specified output directory, including:
 - Model checkpoints
 - Evaluation results and visualizations
 
-## Citation
 
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{rankdiff2024,
-  title={RankDiff: A Ranking-based Diffusion Model for Design Optimization},
-  author={Your Name},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
 
 ## License
 
